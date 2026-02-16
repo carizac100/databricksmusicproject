@@ -1,0 +1,9 @@
+{
+	"name": "df-musicproject",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2f3fa69-172b-424a-90e6-96c31ffe2794",
+		"tenantId": "97bedcf7-e17f-42bd-97ab-5aa724846f5f"
+	}
+}
